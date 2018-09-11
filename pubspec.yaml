@@ -1,0 +1,7 @@
+name: non_null
+description: Annotation to express that arguments or returned values are not nullable.
+author: kikuchy <kikuchy.h@gmail.com>
+homepage: https://github.com/kikuchy/dart_non_null
+version: 0.0.1
+environment:
+    sdk: ">=1.19.0 <3.0.0"
